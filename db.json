@@ -1,9 +1,78 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "livros": [
+    {
+      "id": "1732834045302",
+      "genero": "Ficção",
+      "titulo": "Histórias Secretas dos Irmãos Grimm",
+      "preco": 59.92,
+      "secao": "lancamentos",
+      "imagem": "https://darkside.vtexassets.com/arquivos/ids/195821/historias_secretas_dos_irmaos_grimm_mini_capa.png?v=638573378069130000",
+      "estoque": 4,
+      "descricao": "Cabeças decepadas, crianças assassinas, elfos mutilados e madrastas que querem transformar seus enteados em ensopado são apenas algumas das histórias que os irmãos Grimm omitiram de seus famosos contos de fadas. Como segredos sombrios demais para serem revelados, essas narrativas apareceram na primeira edição de sua coletânea, mas foram ocultadas nas edições seguintes, permanecendo enterradas no esquecimento... Até agora.\n\nOs Grimm estão por trás das mais famosas e amadas histórias infantis que conhecemos. Sua contribuição para o folclore europeu e para a literatura pode ser percebida pelas narrativas que continuam atravessando gerações, mesmo com suas transformações. Esta coletânea reúne achados esquecidos e secretos, incluindo histórias inacabadas, quase perdidas no tempo.\n\nCom tradução direta do alemão, Histórias Secretas dos Irmãos Grimm se desvela como uma raridade para os amantes de contos de fadas. Descubra as histórias raras e secretas  que desafiam todos os finais felizes."
+    },
+    {
+      "id": "1732834089933",
+      "genero": "Ficção",
+      "titulo": "O Que Está Lá Fora",
+      "preco": 79.9,
+      "secao": "lancamentos",
+      "imagem": "https://darkside.vtexassets.com/arquivos/ids/194827/o_que_esta_mini_capa.png?v=638459378126570000",
+      "estoque": 59,
+      "descricao": "Um crime assustador, uma atmosfera envolvente, personagens cativantes e uma floresta viva que presenciou a maldade acontecer em seu coração. Naomi Shaw costumava ouvir vozes e acreditar na magia do outro lado. Quando adolescente, ela e suas duas melhores amigas, Cassidy e Olivia, passavam os verões brincando em uma exuberante floresta em Chester, no estado de Washington. Enxergando um mundo encantado ao seu redor e abraçando toda a força e beleza da bruxaria natural, elas criaram juntas uma forma peculiar de se divertir com o enigmático Jogo da Deusa.\n\n\nUm dia o corpo de Naomi é encontrado caído no meio da floresta com dezessete facadas. Ainda viva mas totalmente inerte, a adolescente observa as copas das árvores mágicas onde um dia havia imaginado poder voar. Naomi foi brutalmente atacada, mas sobreviveu para identificar e ajudar a capturar o seu agressor, um serial killer, procurado pelo assassinato de seis mulheres. Na época, as amigas foram consideradas heroínas. Mas a história não foi bem assim.\n\n\nPor décadas, as amigas mantiveram um segredo pelo qual valeu a pena matar. Muitos verões depois, Olivia quer contar o que realmente aconteceu naqueles dias. E Naomi está de volta à cidade natal para fazer as pazes com o passado e entender os fatos — não importa o quão assustadora seja a verdade. Tudo fica ainda mais assustador quando acontece uma morte próxima ao local do seu esfaqueamento e a trama ganha caminhos imprevisíveis.\n\n\nCelebrada autora conhecida pelos livros young adult, Kate Alice Marshall apresenta em O Que Está Lá Fora um poderoso thriller psicológico, inspirado em um crime real, e que evoca as grandes fábulas literárias. A obra vem recebendo inúmeros elogios de renomados autores e da crítica especializada desde o seu lançamento e sendo comparada com outros grandes nomes do gênero, como Alice Feeney, Megan Miranda e Riley Sager. O romance faz parte dos primeiros lançamentos do projeto especial E.L.A.S. — Especialistas Literárias na Anatomia do Suspense, que integra a marca Crime Scene® Fiction, da DarkSide® Books e apresenta uma seleção criteriosa das mais criativas e inovadoras autoras contemporâneas do suspense mundial.\n\n\nO Que Está Lá Fora é um thriller inovador e poderoso sobre amizade, segredos, traição e mentiras. Elementos que combinados com maestria criam uma trama complexa e repleta de reviravoltas. A coragem de enfrentar nossos monstros do passado pode representar a existência da liberdade em nosso presente."
+    },
+    {
+      "id": "1732834133102",
+      "genero": "Ficção",
+      "titulo": "Lendas Japonesas",
+      "preco": 59.42,
+      "secao": "lancamentos",
+      "imagem": "https://darkside.vtexassets.com/arquivos/ids/194551/lendas_japonesas_mini_capa.png?v=638440414951270000",
+      "estoque": 60,
+      "descricao": "No universo rico e cativante das lendas japonesas, criaturas misteriosas e seres encantados surgem entre as sombras e entram em cena, desencadeando eventos surpreendentes e interações inusitadas entre os personagens. Nesse cenário fascinante que entrelaça o mundano e o sobrenatural, a quadrinista italiana Jessica Cioffi, que adota o pseudônimo Loputyn, dá nova vida e perspectiva a 25 contos tradicionais japoneses, ilustrando-os com seu toque delicado e singular.\n\n\nSelecionados cuidadosamente pela artista, que já encantou os darksiders com Francis, os contos que compõem Lendas Japonesas abrangem temas como amores não correspondidos, vingança, feitiços e acontecimentos sobrenaturais. São histórias que atravessaram épocas e gerações, transmitidas pela tradição oral e registradas na literatura clássica ou adaptadas para o teatro.\nA lenda que inicia o livro, por exemplo, é especialmente difundida entre o povo japonês e narra a trajetória de uma princesa que surgiu de dentro de um bambu para tornar-se filha de um casal de idosos e mais tarde retornou ao mundo de onde veio. A enigmática narrativa, escrita provavelmente entre os séculos IX e X, é considerada a mais antiga dentre as obras de romance ficcionais do Japão.\n\n\nAlgumas das criaturas presentes nas tramas são conhecidas por suas travessuras, como o kitsune e o tanuki, frequentemente descritos como possuidores da capacidade de modificar a aparência. Outros personagens, guiados pela raiva e energia maligna, acabam interferindo de maneira nociva na vida das pessoas. É o caso de Okiku, Otsuyu e Oiwa, que protagonizam as lendas fantasmagóricas mais conhecidas no Japão. Marcadas por vidas trágicas e personagens intensos, essas histórias foram transformadas em enredos do teatro kabuki. A coletânea ainda apresenta seres míticos que buscam relações pacíficas e amistosas, mesmo que essas dinâmicas ultrapassem os limites convencionais.\n\n \n\nA simplicidade com que as histórias de Lendas Japonesas são contadas e transmitidas revela a riqueza de uma cultura que encontra beleza na harmonia entre o visível e o invisível, entre o tangível e o misterioso, nutrindo um entendimento de que o universo é habitado por diferentes esferas de existência."
+    },
+    {
+      "id": "1732834183268",
+      "genero": "Ficção",
+      "titulo": "Anjos Cruéis",
+      "preco": 84,
+      "secao": "lancamentos",
+      "imagem": "https://darkside.vtexassets.com/arquivos/ids/195568/anjos_crueis_mini_capa.png?v=638544060944770000",
+      "estoque": 60,
+      "descricao": "ostinhos angelicais podem encantar e esconder muitas intenções. Por trás da doçura aparente e da inocência infantil, reside um mistério obscuro que desafia as concepções tradicionais sobre a natureza humana. É nesse território sombrio onde traumas, desejos, raivas, frustrações, ausências e descobertas podem emoldurar atos de profunda violência praticados por pequenas criaturas aparentemente indefesas. Um mergulho em mentes ainda em formação, mas já machucadas pela falta de amparo psicológico. Casos estarrecedores são documentados e estudados por todo o mundo, uma infinidade de profissionais busca encontrar respostas para comportamentos tão brutais e, por vezes, inesperados. Os anjos cruéis existem, eles vivem entre nós e podem ser filhos das cicatrizes mais profundas de nossa sociedade.\n\n \n\nAgora, a DarkSide® Books convida você a desvendar os segredos por trás destas feições, lançando luz sobre um aspecto muitas vezes negligenciado da psicologia humana. Anjos Cruéis, um projeto original Crime Scene® criado pela DarkSide® Books em parceria com Daniel Cruz, o renomado autor do site OAV, nos leva a uma jornada envolvente pelo labirinto da psicopatia infantil, onde a inocência e a crueldade se entrelaçam de maneiras inesperadas.\n\n \n\nAnjos Cruéis é um documento poderoso onde fatos, pesquisas e relatos  se juntam para transformar a obra em uma ferramenta de diálogo e enfrentamento de tabus que cercam o assunto. Um livro destinado a se tornar referência para todos que desejam estudar, conhecer e explorar as contradições e a complexidade da mente humana ainda nos seus primeiros passos. Anjos Cruéis conta com mais de vinte estudos de caso de crianças psicopatas como Mary Bell, Jesse Pomeroy e Shinichiro Azuma, análises históricas e sociais que lançam luz sobre as complexidades subjacentes desse fenômeno intrigante e uma galeria com mais de trinta casos cruéis esquecidos no tempo, além de uma lista de filmes cuidadosamente selecionados para oferecer uma perspectiva cinematográfica única sobre o tema, e introdução especial da escritora Barbara Bradley Hagerty.\n\n \n\nUm livro que nasceu com muita dedicação e pesquisa, Anjos Cruéis só poderia chegar aos leitores brasileiros pela marca Crime Scene®, dedicada ao estudo profundo e científico de crimes reais. Há mais de dez anos pavimentando o mercado true crime no Brasil ao lado de pesquisadores, investigadores, psiquiatras, médicos-legistas e promotores, a Crime Scene® é responsável pelo lançamento dos livros mais importantes do gênero como Lady Killers: Assassinas em Série, Serial Killers: Anatomia do Mal, Arquivos Serial Killers: Louco ou Cruel & Made in Brazil, Cruel: Índice da Maldade, entre muitos outros. Anjos Cruéis ilumina um dos aspectos mais sombrios da psicologia humana e nos fornece uma nova perspectiva do que se esconde por trás daqueles rostinhos angelicais."
+    },
+    {
+      "id": "1732834273108",
+      "genero": "Ficçao",
+      "titulo": "Gnomos",
+      "preco": 124.9,
+      "secao": "lancamentos",
+      "imagem": "https://darkside.vtexassets.com/arquivos/ids/192644/gnomos-loja-thumb.png?v=638270346602830000",
+      "estoque": 57,
+      "descricao": "Você sabia que um gnomo é sete vezes mais forte que um humano? Que seu olfato é dezenove vezes mais aguçado? Ou que gnomos esfregam o nariz um no outro quando se cumprimentam e se despedem?\n\n\nMuitas pessoas podem não ver esses seres mágicos, mas a literatura nunca deixou de enxergá-los. Gnomos, lançamento da marca Magicae que resgata um clássico absoluto, é um portal para o mundo dessas criaturas, com muitos detalhes especiais que vão fascinar mais uma vez leitores e leitoras de uma nova geração. O livro também inaugura a Biblioteca Nostálgica de Seres Elementais da DarkSide Books, uma coleção que estuda as criaturas que tornam a nossa vida mais mágica.\n\n\nSucesso na década de 1980, Gnomos é uma colaboração do renomado artista holandês Rien Poortvliet e seu amigo cientista, Wil Huygen; uma obra encantadora inspirada em velhos mitos e lendas que permeiam os sonhos de várias gerações. Transbordando tradição, história e diversão, esta edição comemorativa de 45 anos retrata famílias de gnomos em seu cotidiano, nos levando a uma jornada por bosques e jardins. Aqui descobrimos que os gnomos têm uma história fascinante, repleta de momentos intrigantes e heróis aclamados. Criaturas em perfeita harmonia com a natureza, sempre abraçaram a bandeira multicolorida da vida e cultivaram o respeito por todos os seres encantados desse e de outros planos.\n\n\nEles conhecem segredos da vida natural e sabem usar como ninguém ervas medicinais que curam tudo, desde espirros a insolação e mau humor. Ao acompanhar um dia na vida de um gnomo, é possível testemunhar suas diversas atividades, desde cortar lenha até ajudar animais em perigo. Os gnomos são aliados bondosos da fauna selvagem e, mesmo que muitas vezes não percebamos, também auxiliam os humanos. Além disso, eles constroem casas, educam seus filhos, namoram, casam e até viajam em lua de mel!\n\n\nCom centenas de ilustrações, mapas e diagramas inteiramente coloridos, Gnomos é uma verdadeira joia para os apreciadores de contos de fadas e para todos que desejam redescobrir o prazer da imaginação. Indicado para leitores de todas as idades, e para todos os que já viram ou não gnomos em seu próprio lar, este relato é um deleite para os olhos, regado a muito humor — e com uma pitada indispensável de nostalgia.\n\n\nMagicae\n\n\nMagicae celebra a vida, as fases da lua, as marés internas e os mistérios dos oráculos. Livros repletos de encantamento que honram os poderes ancestrais e cultuam as leis da natureza. A magia que mora no farfalhar das folhas, na alquimia dos aromas, no sopro do vento e no virar das páginas também existe em todos nós. Magicae é o reencontro com a nossa própria essência."
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "carrinho": [
+    {
+      "id": "1732834273108",
+      "genero": "Ficçao",
+      "titulo": "Gnomos",
+      "preco": 124.9,
+      "secao": "lancamentos",
+      "imagem": "https://darkside.vtexassets.com/arquivos/ids/192644/gnomos-loja-thumb.png?v=638270346602830000",
+      "estoque": 58,
+      "descricao": "Você sabia que um gnomo é sete vezes mais forte que um humano? Que seu olfato é dezenove vezes mais aguçado? Ou que gnomos esfregam o nariz um no outro quando se cumprimentam e se despedem?\n\n\nMuitas pessoas podem não ver esses seres mágicos, mas a literatura nunca deixou de enxergá-los. Gnomos, lançamento da marca Magicae que resgata um clássico absoluto, é um portal para o mundo dessas criaturas, com muitos detalhes especiais que vão fascinar mais uma vez leitores e leitoras de uma nova geração. O livro também inaugura a Biblioteca Nostálgica de Seres Elementais da DarkSide Books, uma coleção que estuda as criaturas que tornam a nossa vida mais mágica.\n\n\nSucesso na década de 1980, Gnomos é uma colaboração do renomado artista holandês Rien Poortvliet e seu amigo cientista, Wil Huygen; uma obra encantadora inspirada em velhos mitos e lendas que permeiam os sonhos de várias gerações. Transbordando tradição, história e diversão, esta edição comemorativa de 45 anos retrata famílias de gnomos em seu cotidiano, nos levando a uma jornada por bosques e jardins. Aqui descobrimos que os gnomos têm uma história fascinante, repleta de momentos intrigantes e heróis aclamados. Criaturas em perfeita harmonia com a natureza, sempre abraçaram a bandeira multicolorida da vida e cultivaram o respeito por todos os seres encantados desse e de outros planos.\n\n\nEles conhecem segredos da vida natural e sabem usar como ninguém ervas medicinais que curam tudo, desde espirros a insolação e mau humor. Ao acompanhar um dia na vida de um gnomo, é possível testemunhar suas diversas atividades, desde cortar lenha até ajudar animais em perigo. Os gnomos são aliados bondosos da fauna selvagem e, mesmo que muitas vezes não percebamos, também auxiliam os humanos. Além disso, eles constroem casas, educam seus filhos, namoram, casam e até viajam em lua de mel!\n\n\nCom centenas de ilustrações, mapas e diagramas inteiramente coloridos, Gnomos é uma verdadeira joia para os apreciadores de contos de fadas e para todos que desejam redescobrir o prazer da imaginação. Indicado para leitores de todas as idades, e para todos os que já viram ou não gnomos em seu próprio lar, este relato é um deleite para os olhos, regado a muito humor — e com uma pitada indispensável de nostalgia.\n\n\nMagicae\n\n\nMagicae celebra a vida, as fases da lua, as marés internas e os mistérios dos oráculos. Livros repletos de encantamento que honram os poderes ancestrais e cultuam as leis da natureza. A magia que mora no farfalhar das folhas, na alquimia dos aromas, no sopro do vento e no virar das páginas também existe em todos nós. Magicae é o reencontro com a nossa própria essência."
+    }
   ],
-  "profile": { "name": "typicode" }
+  "usuarios": [
+    {
+      "id": "2428",
+      "email": "user@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "22c2",
+      "email": "user@example.com",
+      "password": "123456"
+    }
+  ]
 }
