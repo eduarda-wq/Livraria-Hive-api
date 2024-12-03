@@ -1,75 +1,100 @@
 {
   "livros": [
     {
-      "id": "1732834045302",
-      "genero": "Ficção",
-      "titulo": "Histórias Secretas dos Irmãos Grimm",
-      "preco": 59.92,
+      "id": "1733228131001",
+      "genero": "Infantil",
+      "titulo": "Diário de um Banana 1",
+      "preco": 46.83,
+      "secao": "infantis",
+      "imagem": "https://m.media-amazon.com/images/I/41gBzGDn3XL._SY445_SX342_.jpg",
+      "estoque": 2,
+      "descricao": "Não é fácil ser criança. E ninguém sabe disso melhor do que Greg Heffley, que se vê mergulhado no mundo do ensino fundamental, onde fracotes são obrigados a dividir os corredores com garotos mais altos, mais malvados e que já se barbeiam. Em Diário de um Banana, o autor e ilustrados Jeff Kinney nos apresenta um herói improvável. Como Greg diz em seu diário. Só não espere que seja todo Querido Diário isso, Querido Diário aquilo. Para nossa sorte, o que Greg Heffley diz que fará e o que ele realmente faz são duas coisas bem diferentes."
+    },
+    {
+      "id": "1733228251733",
+      "genero": "Infantil",
+      "titulo": "O Menino Maluquinho",
+      "preco": 28,
+      "secao": "infantis",
+      "imagem": "https://m.media-amazon.com/images/I/61TVaiHQo4L._SY466_.jpg",
+      "estoque": 1,
+      "descricao": "Aquele era um menino muito sabido, esperto, inteligente! Tinha macaquinhos no sótão, embora não soubesse o que isso queria dizer... Brincava, agitava a casa, animava a todos com sua energia e vivacidade. Seria ele um anjinho, um saci? Alegria da casa, na escola, liderava a garotada na hora do intervalo. Adorava fazer versinhos, compor canções, inventar novos jogos e brincadeiras. Era um amigão. “Que Menino Maluquinho”, diziam sorrindo as pessoas que o conheciam. Não era nada disso, não! Só mais tarde descobriram que ele tinha sido um garoto muito amado e muito feliz."
+    },
+    {
+      "id": "1733228760505",
+      "genero": "Infantil",
+      "titulo": "O Pequeno Príncipe Preto",
+      "preco": 47.9,
+      "secao": "infantis",
+      "imagem": "https://m.media-amazon.com/images/I/81pNvn4iS4L._SY466_.jpg",
+      "estoque": 5,
+      "descricao": "Em um minúsculo planeta, vive o Pequeno Príncipe Preto.\nAlém dele, existe apenas uma árvore Baobá, sua única companheira. Quando chegam as ventanias, o menino viaja por diferentes planetas, espalhando o amor e a empatia.\n\nO texto é originalmente uma peça infantil que já rodou o país inteiro. Agora, Rodrigo França traz essa delicada história no formato de conto, presenteando o jovem leitor com uma narrativa que fala da importância de valorizarmos quem somos e de onde viemos - além de nos mostrar a força de termos laços de carinho e afeto. Afinal, como diz o Pequeno Príncipe"
+    },
+    {
+      "id": 1733231256435,
+      "genero": "Drama",
+      "titulo": "É Assim que Acaba: 1",
+      "preco": 69.9,
       "secao": "lancamentos",
-      "imagem": "https://darkside.vtexassets.com/arquivos/ids/195821/historias_secretas_dos_irmaos_grimm_mini_capa.png?v=638573378069130000",
+      "imagem": "https://m.media-amazon.com/images/I/51i7kH+rh9L._SY445_SX342_.jpg",
+      "estoque": 5,
+      "descricao": "Considerado o livro do ano, que virou febre no TikTok e sozinho já acumulou mais de um milhão de exemplares vendidos no Brasil. É assim que acaba é o romance mais pessoal da carreira de Colleen Hoover, discutindo temas como violência doméstica e abuso psicológico de forma sensível e direta. \n\n \n\nEm É assim que acaba , Colleen Hoover nos apresenta Lily, uma jovem que se mudou de uma cidadezinha do Maine para Boston, se formou em marketing e abriu a própria floricultura. E é em um dos terraços de Boston que ela conhece Ryle, um neurocirurgião confiante, teimoso e talvez até um pouco arrogante, com uma grande aversão a relacionamentos, mas que se sente muito atraído por ela.\n\nQuando os dois se apaixonam, Lily se vê no meio de um relacionamento turbulento que não é o que ela esperava. Mas será que ela conseguirá enxergar isso, por mais doloroso que seja?\n\nÉ assim que acaba é uma narrativa poderosa sobre a força necessária para fazer as escolhas certas nas situações mais difíceis. Considerada a obra mais pessoal de Hoover, o livro aborda sem medo alguns tabus da sociedade para explorar a complexidade das relações tóxicas, e como o amor e o abuso muitas vezes coexistem em uma confusão de sentimentos.\n\n \n\n“Um romance corajoso, de partir o coração, que enfia as garras em você e não te solta... Ninguém escreve sobre sentimentos tão bem quanto Colleen Hoover.” -Anna Todd, autora da série After\n\n“...Você vai sorrir em meio às lágrimas.” - Sarah Pekkanen, autora de Perfect Neighbors\n\n“Imperdível. Com um drama fascinante e verdades dolorosas, esse livro retrata de maneira poderosa a devastação que o abuso pode causar - e a força de quem sobrevive a ele...” - Kirkus Review"
+    },
+    {
+      "id": 1733231540966,
+      "genero": "Ficção",
+      "titulo": "O palhaço e o psicanalista: Como escutar os outros pode transformar vidas",
+      "preco": 15.9,
+      "secao": "lancamentos",
+      "imagem": "https://m.media-amazon.com/images/I/41mO6JIEu8L._SY445_SX342_.jpg",
       "estoque": 4,
-      "descricao": "Cabeças decepadas, crianças assassinas, elfos mutilados e madrastas que querem transformar seus enteados em ensopado são apenas algumas das histórias que os irmãos Grimm omitiram de seus famosos contos de fadas. Como segredos sombrios demais para serem revelados, essas narrativas apareceram na primeira edição de sua coletânea, mas foram ocultadas nas edições seguintes, permanecendo enterradas no esquecimento... Até agora.\n\nOs Grimm estão por trás das mais famosas e amadas histórias infantis que conhecemos. Sua contribuição para o folclore europeu e para a literatura pode ser percebida pelas narrativas que continuam atravessando gerações, mesmo com suas transformações. Esta coletânea reúne achados esquecidos e secretos, incluindo histórias inacabadas, quase perdidas no tempo.\n\nCom tradução direta do alemão, Histórias Secretas dos Irmãos Grimm se desvela como uma raridade para os amantes de contos de fadas. Descubra as histórias raras e secretas  que desafiam todos os finais felizes."
+      "descricao": "Se de médico e louco todo mundo tem um pouco, de psicanalista e palhaço todo mundo tem um pedaço. Christian Dunker e Cláudio Thebas abordam neste livro, com bom humor e profundidade, um tema comum para ambos os ofícios: como escutar os outros? Como escutar a si mesmo? E como a escuta pode transformar pessoas? Mesclando experiências, testemunhos, casos e reflexões filosóficas, os autores compartilham o que aprenderam sobre a arte da escuta, um tema tão urgente no mundo atual, onde ninguém mais se escuta. Alguns temas abordados são: Sete regras para ser melhor escutado; Os quatro agás da escuta; A potência do silêncio; Simpatia não é empatia; Como construir para si um órgão de escuta; Cuidado ou controle; A arte cavalheiresca de escutar uma reunião; Educados para a solidão silenciosa; Competir ou cooperar?; Três perguntas mágicas; A arte de perguntar; Fala que eu não te escuto; Maneiras práticas de domesticar o abominável que existe em você; Escutando chatos, fascistas e outros fanáticos; O líder escutador; A coragem e o desejo de escutar"
     },
     {
-      "id": "1732834089933",
+      "id": 1733231636331,
       "genero": "Ficção",
-      "titulo": "O Que Está Lá Fora",
-      "preco": 79.9,
+      "titulo": "Extraordinário",
+      "preco": 7.43,
       "secao": "lancamentos",
-      "imagem": "https://darkside.vtexassets.com/arquivos/ids/194827/o_que_esta_mini_capa.png?v=638459378126570000",
-      "estoque": 59,
-      "descricao": "Um crime assustador, uma atmosfera envolvente, personagens cativantes e uma floresta viva que presenciou a maldade acontecer em seu coração. Naomi Shaw costumava ouvir vozes e acreditar na magia do outro lado. Quando adolescente, ela e suas duas melhores amigas, Cassidy e Olivia, passavam os verões brincando em uma exuberante floresta em Chester, no estado de Washington. Enxergando um mundo encantado ao seu redor e abraçando toda a força e beleza da bruxaria natural, elas criaram juntas uma forma peculiar de se divertir com o enigmático Jogo da Deusa.\n\n\nUm dia o corpo de Naomi é encontrado caído no meio da floresta com dezessete facadas. Ainda viva mas totalmente inerte, a adolescente observa as copas das árvores mágicas onde um dia havia imaginado poder voar. Naomi foi brutalmente atacada, mas sobreviveu para identificar e ajudar a capturar o seu agressor, um serial killer, procurado pelo assassinato de seis mulheres. Na época, as amigas foram consideradas heroínas. Mas a história não foi bem assim.\n\n\nPor décadas, as amigas mantiveram um segredo pelo qual valeu a pena matar. Muitos verões depois, Olivia quer contar o que realmente aconteceu naqueles dias. E Naomi está de volta à cidade natal para fazer as pazes com o passado e entender os fatos — não importa o quão assustadora seja a verdade. Tudo fica ainda mais assustador quando acontece uma morte próxima ao local do seu esfaqueamento e a trama ganha caminhos imprevisíveis.\n\n\nCelebrada autora conhecida pelos livros young adult, Kate Alice Marshall apresenta em O Que Está Lá Fora um poderoso thriller psicológico, inspirado em um crime real, e que evoca as grandes fábulas literárias. A obra vem recebendo inúmeros elogios de renomados autores e da crítica especializada desde o seu lançamento e sendo comparada com outros grandes nomes do gênero, como Alice Feeney, Megan Miranda e Riley Sager. O romance faz parte dos primeiros lançamentos do projeto especial E.L.A.S. — Especialistas Literárias na Anatomia do Suspense, que integra a marca Crime Scene® Fiction, da DarkSide® Books e apresenta uma seleção criteriosa das mais criativas e inovadoras autoras contemporâneas do suspense mundial.\n\n\nO Que Está Lá Fora é um thriller inovador e poderoso sobre amizade, segredos, traição e mentiras. Elementos que combinados com maestria criam uma trama complexa e repleta de reviravoltas. A coragem de enfrentar nossos monstros do passado pode representar a existência da liberdade em nosso presente."
+      "imagem": "https://m.media-amazon.com/images/I/41--5-gbIhL._SY445_SX342_.jpg",
+      "estoque": 1,
+      "descricao": "August Pullman, o Auggie, nasceu com uma síndrome genética cuja sequela é uma severa deformidade facial, que lhe impôs diversas cirurgias e complicações médicas. Por isso ele nunca frequentou uma escola de verdade... até agora.\n\nTodo mundo sabe que é difícil ser um aluno novo, mais ainda quando se tem um rosto tão diferente. Prestes a começar o quinto ano em um colégio particular de Nova York, Auggie tem uma missão nada fácil pela frente: convencer os colegas de que, apesar da aparência incomum, ele é um menino igual a todos os outros.\n\nNarrado da perspectiva de Auggie e também de seus familiares e amigos, com momentos comoventes e outros descontraídos, Extraordinário consegue captar o impacto que um menino pode causar na vida e no comportamento de todos, família, amigos e comunidade - um impacto forte, comovente e, sem dúvida nenhuma, extraordinariamente positivo, que vai tocar todo tipo de leitor."
     },
     {
-      "id": "1732834133102",
-      "genero": "Ficção",
-      "titulo": "Lendas Japonesas",
-      "preco": 59.42,
-      "secao": "lancamentos",
-      "imagem": "https://darkside.vtexassets.com/arquivos/ids/194551/lendas_japonesas_mini_capa.png?v=638440414951270000",
-      "estoque": 60,
-      "descricao": "No universo rico e cativante das lendas japonesas, criaturas misteriosas e seres encantados surgem entre as sombras e entram em cena, desencadeando eventos surpreendentes e interações inusitadas entre os personagens. Nesse cenário fascinante que entrelaça o mundano e o sobrenatural, a quadrinista italiana Jessica Cioffi, que adota o pseudônimo Loputyn, dá nova vida e perspectiva a 25 contos tradicionais japoneses, ilustrando-os com seu toque delicado e singular.\n\n\nSelecionados cuidadosamente pela artista, que já encantou os darksiders com Francis, os contos que compõem Lendas Japonesas abrangem temas como amores não correspondidos, vingança, feitiços e acontecimentos sobrenaturais. São histórias que atravessaram épocas e gerações, transmitidas pela tradição oral e registradas na literatura clássica ou adaptadas para o teatro.\nA lenda que inicia o livro, por exemplo, é especialmente difundida entre o povo japonês e narra a trajetória de uma princesa que surgiu de dentro de um bambu para tornar-se filha de um casal de idosos e mais tarde retornou ao mundo de onde veio. A enigmática narrativa, escrita provavelmente entre os séculos IX e X, é considerada a mais antiga dentre as obras de romance ficcionais do Japão.\n\n\nAlgumas das criaturas presentes nas tramas são conhecidas por suas travessuras, como o kitsune e o tanuki, frequentemente descritos como possuidores da capacidade de modificar a aparência. Outros personagens, guiados pela raiva e energia maligna, acabam interferindo de maneira nociva na vida das pessoas. É o caso de Okiku, Otsuyu e Oiwa, que protagonizam as lendas fantasmagóricas mais conhecidas no Japão. Marcadas por vidas trágicas e personagens intensos, essas histórias foram transformadas em enredos do teatro kabuki. A coletânea ainda apresenta seres míticos que buscam relações pacíficas e amistosas, mesmo que essas dinâmicas ultrapassem os limites convencionais.\n\n \n\nA simplicidade com que as histórias de Lendas Japonesas são contadas e transmitidas revela a riqueza de uma cultura que encontra beleza na harmonia entre o visível e o invisível, entre o tangível e o misterioso, nutrindo um entendimento de que o universo é habitado por diferentes esferas de existência."
-    },
-    {
-      "id": "1732834183268",
-      "genero": "Ficção",
-      "titulo": "Anjos Cruéis",
-      "preco": 84,
-      "secao": "lancamentos",
-      "imagem": "https://darkside.vtexassets.com/arquivos/ids/195568/anjos_crueis_mini_capa.png?v=638544060944770000",
-      "estoque": 60,
-      "descricao": "ostinhos angelicais podem encantar e esconder muitas intenções. Por trás da doçura aparente e da inocência infantil, reside um mistério obscuro que desafia as concepções tradicionais sobre a natureza humana. É nesse território sombrio onde traumas, desejos, raivas, frustrações, ausências e descobertas podem emoldurar atos de profunda violência praticados por pequenas criaturas aparentemente indefesas. Um mergulho em mentes ainda em formação, mas já machucadas pela falta de amparo psicológico. Casos estarrecedores são documentados e estudados por todo o mundo, uma infinidade de profissionais busca encontrar respostas para comportamentos tão brutais e, por vezes, inesperados. Os anjos cruéis existem, eles vivem entre nós e podem ser filhos das cicatrizes mais profundas de nossa sociedade.\n\n \n\nAgora, a DarkSide® Books convida você a desvendar os segredos por trás destas feições, lançando luz sobre um aspecto muitas vezes negligenciado da psicologia humana. Anjos Cruéis, um projeto original Crime Scene® criado pela DarkSide® Books em parceria com Daniel Cruz, o renomado autor do site OAV, nos leva a uma jornada envolvente pelo labirinto da psicopatia infantil, onde a inocência e a crueldade se entrelaçam de maneiras inesperadas.\n\n \n\nAnjos Cruéis é um documento poderoso onde fatos, pesquisas e relatos  se juntam para transformar a obra em uma ferramenta de diálogo e enfrentamento de tabus que cercam o assunto. Um livro destinado a se tornar referência para todos que desejam estudar, conhecer e explorar as contradições e a complexidade da mente humana ainda nos seus primeiros passos. Anjos Cruéis conta com mais de vinte estudos de caso de crianças psicopatas como Mary Bell, Jesse Pomeroy e Shinichiro Azuma, análises históricas e sociais que lançam luz sobre as complexidades subjacentes desse fenômeno intrigante e uma galeria com mais de trinta casos cruéis esquecidos no tempo, além de uma lista de filmes cuidadosamente selecionados para oferecer uma perspectiva cinematográfica única sobre o tema, e introdução especial da escritora Barbara Bradley Hagerty.\n\n \n\nUm livro que nasceu com muita dedicação e pesquisa, Anjos Cruéis só poderia chegar aos leitores brasileiros pela marca Crime Scene®, dedicada ao estudo profundo e científico de crimes reais. Há mais de dez anos pavimentando o mercado true crime no Brasil ao lado de pesquisadores, investigadores, psiquiatras, médicos-legistas e promotores, a Crime Scene® é responsável pelo lançamento dos livros mais importantes do gênero como Lady Killers: Assassinas em Série, Serial Killers: Anatomia do Mal, Arquivos Serial Killers: Louco ou Cruel & Made in Brazil, Cruel: Índice da Maldade, entre muitos outros. Anjos Cruéis ilumina um dos aspectos mais sombrios da psicologia humana e nos fornece uma nova perspectiva do que se esconde por trás daqueles rostinhos angelicais."
-    },
-    {
-      "id": "1732834273108",
-      "genero": "Ficçao",
-      "titulo": "Gnomos",
-      "preco": 124.9,
-      "secao": "lancamentos",
-      "imagem": "https://darkside.vtexassets.com/arquivos/ids/192644/gnomos-loja-thumb.png?v=638270346602830000",
-      "estoque": 57,
-      "descricao": "Você sabia que um gnomo é sete vezes mais forte que um humano? Que seu olfato é dezenove vezes mais aguçado? Ou que gnomos esfregam o nariz um no outro quando se cumprimentam e se despedem?\n\n\nMuitas pessoas podem não ver esses seres mágicos, mas a literatura nunca deixou de enxergá-los. Gnomos, lançamento da marca Magicae que resgata um clássico absoluto, é um portal para o mundo dessas criaturas, com muitos detalhes especiais que vão fascinar mais uma vez leitores e leitoras de uma nova geração. O livro também inaugura a Biblioteca Nostálgica de Seres Elementais da DarkSide Books, uma coleção que estuda as criaturas que tornam a nossa vida mais mágica.\n\n\nSucesso na década de 1980, Gnomos é uma colaboração do renomado artista holandês Rien Poortvliet e seu amigo cientista, Wil Huygen; uma obra encantadora inspirada em velhos mitos e lendas que permeiam os sonhos de várias gerações. Transbordando tradição, história e diversão, esta edição comemorativa de 45 anos retrata famílias de gnomos em seu cotidiano, nos levando a uma jornada por bosques e jardins. Aqui descobrimos que os gnomos têm uma história fascinante, repleta de momentos intrigantes e heróis aclamados. Criaturas em perfeita harmonia com a natureza, sempre abraçaram a bandeira multicolorida da vida e cultivaram o respeito por todos os seres encantados desse e de outros planos.\n\n\nEles conhecem segredos da vida natural e sabem usar como ninguém ervas medicinais que curam tudo, desde espirros a insolação e mau humor. Ao acompanhar um dia na vida de um gnomo, é possível testemunhar suas diversas atividades, desde cortar lenha até ajudar animais em perigo. Os gnomos são aliados bondosos da fauna selvagem e, mesmo que muitas vezes não percebamos, também auxiliam os humanos. Além disso, eles constroem casas, educam seus filhos, namoram, casam e até viajam em lua de mel!\n\n\nCom centenas de ilustrações, mapas e diagramas inteiramente coloridos, Gnomos é uma verdadeira joia para os apreciadores de contos de fadas e para todos que desejam redescobrir o prazer da imaginação. Indicado para leitores de todas as idades, e para todos os que já viram ou não gnomos em seu próprio lar, este relato é um deleite para os olhos, regado a muito humor — e com uma pitada indispensável de nostalgia.\n\n\nMagicae\n\n\nMagicae celebra a vida, as fases da lua, as marés internas e os mistérios dos oráculos. Livros repletos de encantamento que honram os poderes ancestrais e cultuam as leis da natureza. A magia que mora no farfalhar das folhas, na alquimia dos aromas, no sopro do vento e no virar das páginas também existe em todos nós. Magicae é o reencontro com a nossa própria essência."
+      "id": 1733231748064,
+      "genero": "Autoajuda",
+      "titulo": "Mindset: A nova psicologia do sucesso ",
+      "preco": 87.47,
+      "secao": "destaques",
+      "imagem": "https://m.media-amazon.com/images/I/41suUFbw-eL._SY445_SX342_.jpg",
+      "estoque": 1,
+      "descricao": "Carol S. Dweck, ph.D., professora de psicologia na Universidade Stanford e especialista internacional em sucesso e motivação, desenvolveu, ao longo de décadas de pesquisa, um conceito fundamental: a atitude mental com que encaramos a vida, que ela chama de “mindset”, é crucial para o sucesso. Dweck revela de forma brilhante como o sucesso pode ser alcançado pela maneira como lidamos com nossos objetivos. O mindset não é um mero traço de personalidade, é a explicação de por que somos otimistas ou pessimistas, bem-sucedidos ou não. Ele define nossa relação com o trabalho e com as pessoas e a maneira como educamos nossos filhos. É um fator decisivo para que todo o nosso potencial seja explorado."
     }
   ],
-  "carrinho": [
-    {
-      "id": "1732834273108",
-      "genero": "Ficçao",
-      "titulo": "Gnomos",
-      "preco": 124.9,
-      "secao": "lancamentos",
-      "imagem": "https://darkside.vtexassets.com/arquivos/ids/192644/gnomos-loja-thumb.png?v=638270346602830000",
-      "estoque": 58,
-      "descricao": "Você sabia que um gnomo é sete vezes mais forte que um humano? Que seu olfato é dezenove vezes mais aguçado? Ou que gnomos esfregam o nariz um no outro quando se cumprimentam e se despedem?\n\n\nMuitas pessoas podem não ver esses seres mágicos, mas a literatura nunca deixou de enxergá-los. Gnomos, lançamento da marca Magicae que resgata um clássico absoluto, é um portal para o mundo dessas criaturas, com muitos detalhes especiais que vão fascinar mais uma vez leitores e leitoras de uma nova geração. O livro também inaugura a Biblioteca Nostálgica de Seres Elementais da DarkSide Books, uma coleção que estuda as criaturas que tornam a nossa vida mais mágica.\n\n\nSucesso na década de 1980, Gnomos é uma colaboração do renomado artista holandês Rien Poortvliet e seu amigo cientista, Wil Huygen; uma obra encantadora inspirada em velhos mitos e lendas que permeiam os sonhos de várias gerações. Transbordando tradição, história e diversão, esta edição comemorativa de 45 anos retrata famílias de gnomos em seu cotidiano, nos levando a uma jornada por bosques e jardins. Aqui descobrimos que os gnomos têm uma história fascinante, repleta de momentos intrigantes e heróis aclamados. Criaturas em perfeita harmonia com a natureza, sempre abraçaram a bandeira multicolorida da vida e cultivaram o respeito por todos os seres encantados desse e de outros planos.\n\n\nEles conhecem segredos da vida natural e sabem usar como ninguém ervas medicinais que curam tudo, desde espirros a insolação e mau humor. Ao acompanhar um dia na vida de um gnomo, é possível testemunhar suas diversas atividades, desde cortar lenha até ajudar animais em perigo. Os gnomos são aliados bondosos da fauna selvagem e, mesmo que muitas vezes não percebamos, também auxiliam os humanos. Além disso, eles constroem casas, educam seus filhos, namoram, casam e até viajam em lua de mel!\n\n\nCom centenas de ilustrações, mapas e diagramas inteiramente coloridos, Gnomos é uma verdadeira joia para os apreciadores de contos de fadas e para todos que desejam redescobrir o prazer da imaginação. Indicado para leitores de todas as idades, e para todos os que já viram ou não gnomos em seu próprio lar, este relato é um deleite para os olhos, regado a muito humor — e com uma pitada indispensável de nostalgia.\n\n\nMagicae\n\n\nMagicae celebra a vida, as fases da lua, as marés internas e os mistérios dos oráculos. Livros repletos de encantamento que honram os poderes ancestrais e cultuam as leis da natureza. A magia que mora no farfalhar das folhas, na alquimia dos aromas, no sopro do vento e no virar das páginas também existe em todos nós. Magicae é o reencontro com a nossa própria essência."
-    }
-  ],
+  "carrinho": [],
   "usuarios": [
-       {
-      "id": "eb87",
-      "email": "user@example.com",
-      "password": "test123",
-      "nome": "Erick",
-      "foto": "https://thumbs.dreamstime.com/b/s%C3%ADmbolo-de-perfil-masculino-inteligente-retrato-estilo-desenho-animado-m%C3%ADnimo-166146853.jpg"
+    {
+      "id": "01e0",
+      "email": "teste@gmail.om",
+      "password": "1234",
+      "nome": "Joãozinho",
+      "foto": "https://cdn-icons-png.flaticon.com/512/1373/1373255.png"
+    }
+  ],
+  "avaliacoes": [
+    {
+      "id": "086e",
+      "livroId": "1733228131001",
+      "usuario": "Joãozinho",
+      "nota": 5,
+      "comentario": "Teste"
+    },
+    {
+      "id": "2736",
+      "livroId": "1733228760505",
+      "usuario": "Joãozinho",
+      "nota": 2,
+      "comentario": "test\n"
     }
   ]
 }
