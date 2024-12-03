@@ -64,15 +64,12 @@
     }
   ],
   "usuarios": [
-    {
-      "id": "2428",
+       {
+      "id": "eb87",
       "email": "user@example.com",
-      "password": "123456"
-    },
-    {
-      "id": "22c2",
-      "email": "user@example.com",
-      "password": "123456"
+      "password": "test123",
+      "nome": "Erick",
+      "foto": "https://thumbs.dreamstime.com/b/s%C3%ADmbolo-de-perfil-masculino-inteligente-retrato-estilo-desenho-animado-m%C3%ADnimo-166146853.jpg"
     }
   ]
 }
